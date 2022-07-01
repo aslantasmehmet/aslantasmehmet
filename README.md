@@ -1,4 +1,4 @@
-### Hi there, I'm Mehmet👋
+<h1 align="center">Hi 👋🏻, I'm Mehmet</h1> 
 
 
 
@@ -7,7 +7,7 @@
 - 💬 Ask me questions about Java, Spring Boot and Software
 - 📄 Know about my experiences https://mehmetaslantas.dev
 
- ## Skills
+ ## Languages and Tools
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="c#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
