@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on   Spring Boot Project Example & Java Examples
+- 🔭 I'm currently working on Java-Spring and React projects.
 - 👨‍💻 All of my projects are available at https://github.com/aslantasmehmet
 - 💬 Ask me questions about Java, Spring Boot and Software
 - 📄 Know about my experiences https://mehmetaslantas.dev
@@ -32,7 +32,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/aslantass_m" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/mehmet.aslantass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/aslantass_m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   
  </br>
