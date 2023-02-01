@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on Java-Spring and React projects.
 - 👨‍💻 All of my projects are available at https://github.com/aslantasmehmet
-- 💬 Ask me questions about Java, Spring Boot and Software
+- 💬 Ask me questions about Java, Spring Boot,React and Software
 - 📄 Know about my experiences https://mehmetaslantas.dev
 
  ## Languages and Tools
