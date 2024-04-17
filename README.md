@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/aslantass_m" target="blank"><img src="https://img.shields.io/twitter/follow/aslantass_m?logo=twitter&style=for-the-badge" alt="aslantass_m" /></a> </p>
 
-- 🔭 I’m currently working on [İnnotech Solutions](http://innotechsolutions.com)
 
 - 🌱 I’m currently learning **Next**
 
