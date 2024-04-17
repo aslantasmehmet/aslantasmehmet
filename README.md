@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ozcanzaferayan](https://github.com/aslabtasmehmet)
+- 👨‍💻 All of my projects are available at [https://github.com/aslantasmehmet](https://github.com/aslabtasmehmet)
 
-- 📝 I regularly write articles on [https://zaferayan.medium.com](https://aslantasmehmet.medium.com)
+- 📝 I regularly write articles on [https://aslantasmehmet.medium.com](https://aslantasmehmet.medium.com)
 
 - 💬 Ask me about **Web Development, React, React Native, Next**
 
 - 📫 How to reach me **aslantassmehmet58@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zaferayan/](https://www.linkedin.com/in/aslantasmehmet/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aslantasmehmet/](https://www.linkedin.com/in/aslantasmehmet/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
