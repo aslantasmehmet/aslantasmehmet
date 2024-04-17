@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate front-end developer and software quality and testing expert from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozcanzaferayan&label=Profile%20views&color=0e75b6&style=flat" alt="ozcanzaferayan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozcanzaferayan" alt="aslantasmehmet" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aslantass_m" target="blank"><img src="https://img.shields.io/twitter/follow/aslantass_m?logo=twitter&style=for-the-badge" alt="aslantass_m" /></a> </p>
 
-- 🔭 I’m currently working on [Teknasyon](http://teknasyon.com)
+- 🔭 I’m currently working on [İnnotech Solutions](http://innotechsolutions.com)
 
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently learning **Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ozcanzaferayan](https://github.com/ozcanzaferayan)
+- 👨‍💻 All of my projects are available at [https://github.com/ozcanzaferayan](https://github.com/aslabtasmehmet)
 
-- 📝 I regularly write articles on [https://zaferayan.medium.com](https://zaferayan.medium.com)
+- 📝 I regularly write articles on [https://zaferayan.medium.com](https://aslantasmehmet.medium.com)
 
-- 💬 Ask me about **Web Development, React, React Native, Remix**
+- 💬 Ask me about **Web Development, React, React Native, Next**
 
-- 📫 How to reach me **ozcanzaferayan@gmail.com**
+- 📫 How to reach me **aslantassmehmet58@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/zaferayan/](https://www.linkedin.com/in/zaferayan/)
-
-- ⚡ Fun fact **I am also React Sevdalısı (Lover)**
+- 📄 Know about my experiences [https://www.linkedin.com/in/zaferayan/](https://www.linkedin.com/in/aslantasmehmet/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
