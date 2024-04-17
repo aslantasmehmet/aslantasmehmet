@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aslantasmehmet](https://github.com/aslabtasmehmet)
+- 👨‍💻 All of my projects are available at [https://github.com/aslantasmehmet](https://github.com/aslantasmehmet)
 
 - 📝 I regularly write articles on [https://aslantasmehmet.medium.com](https://aslantasmehmet.medium.com)
 
