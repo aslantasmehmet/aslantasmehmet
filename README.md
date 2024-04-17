@@ -31,13 +31,13 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Postman/Postman-original.svg">
+  <img height="40" align="center" alt="postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Swagger/Swagger-original.svg">
+  <img height="40" align="center" alt="swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="40" align="center" alt="Ismail-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/next/next-original-wordmark.svg">
+  <img height="40" align="center" alt="nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </div>
