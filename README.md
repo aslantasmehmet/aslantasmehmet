@@ -3,9 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [mehmetaslantass58@gmail.com](mailto:borabiriciksoftware@gmail.com)
+* ✉️  You can contact me at [aslantassmehmet58@gmail.com](mailto:aslantassmehmet58@gmail.com)
 * 🚀  I'm currently working on React or Python
 * 🧠  I'm learning Everything I found 😂
+* <br/>
 <a href="https://x.com/aslantass_m" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aslantass_m?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
